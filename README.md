@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsen15&label=Profile%20views&color=0e75b6&style=flat" alt="arsen15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsen15" alt="arsen15" /></a> </p>
-
 - 🔭 I’m currently working on [Fruit Fortress](https://github.com/arsen15/GFL-Tower-Defense-Game)
 
 - 🌱 I’m currently learning **.NET, C#, Unity engine**
